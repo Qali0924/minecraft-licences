@@ -1,3 +1,9 @@
 {
-  "4UBFNkze6jgZTEoX9byWuIuWtdnBlh225SnsXFDBFPl8uYgKnqjoKvyAonHWZJGT": true
+  "qa-anvil": [
+    "ABCD-1234-4567-OLPA",
+    "XYZW-5678-1234-QWER"
+  ],
+  "AnotherPlugin": [
+    "ASDF-1234-QWER-5678"
+  ]
 }
